@@ -21,7 +21,7 @@ public class DBConnection {
         
         try{
         Class.forName("oracle.jdbc.OracleDriver");
-        conn=DriverManager.getConnection("jdbc:oracle:thin:@//DESKTOP-FV1PGQE:1521/xe","Emart","Emart");
+        conn=DriverManager.getConnection("jdbc:oracle:thin:@//divice_address","user","password");
         }
         catch(ClassNotFoundException cnf)
         {
