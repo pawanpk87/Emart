@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/87040096/143785629-544b2f70-2d01-477c-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Pawan Kumar Mehta - arowpk@gmail.com
+Pawan Kumar Mehta - arowpk@gmail.com
 
 Project Link: [https://github.com/pawanpk87/Emart](https://github.com/pawanpk87/Emart)
 
